@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Practice Suite" duration-ms="133" started-at="2020-08-20T15:01:22Z" finished-at="2020-08-20T15:01:22Z">
+    <groups>
+    </groups>
+    <test name="Test Basics 1" duration-ms="133" started-at="2020-08-20T15:01:22Z" finished-at="2020-08-20T15:01:22Z">
+      <class name="TestJenkins.MyTestMaven">
+        <test-method status="PASS" signature="myTest()[pri:0, instance:TestJenkins.MyTestMaven@573f2bb1]" name="myTest" duration-ms="52" started-at="2020-08-20T15:01:22Z" finished-at="2020-08-20T15:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+      </class> <!-- TestJenkins.MyTestMaven -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
