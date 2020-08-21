@@ -14,7 +14,7 @@ public class MyTestMaven {
 			System.out.println("Hello World "+i);
 		}
 		
-		System.out.println("Exxecuting through GIT changes");
+		System.out.println("Exxecuting through GIT changes  dfg fgfd");
 	}
 
 }
