@@ -12,7 +12,7 @@ public class MyTestMaven {
 		{
 			
 			
-			System.out.println("Hellllo Jenkins "+i);
+			System.out.println("Hellllo Jenkins hgghbjhjj "+i);
 		}
 		
 		System.out.println("Exxecuting through GIT changes  dfg fgfd");
