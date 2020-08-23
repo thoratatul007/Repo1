@@ -16,7 +16,7 @@ public class MyTestMaven {
 		}
 		
 		System.out.println("Exxecuting through GIT changes  dfg fgfd");
-		System.out.println("Added Webhoook in gitHub");
+		System.out.println("Added Webhoook in gitHub Job configurations");
 	}
 
 }
